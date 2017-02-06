@@ -1,2 +1,2 @@
 # braingame
-just a little game
+a simple quiz
